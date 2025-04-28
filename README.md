@@ -1,18 +1,18 @@
 # DeepLearningForest Fire Detection using Deep Learning
 
-Project Overview
-
+**Project Overview
+**
 This project aims to detect forest fires from images using deep learning techniques. It involves data preprocessing, visualization, model building, and evaluation to deliver an efficient fire detection system.
 
-Dataset
-
+**Dataset
+**
 Source: Fire and No Fire images collected for classification tasks.The dataset includes two classes:
 
 Fire
 
 No Fire
 
-Tech Stack
+**Tech Stack**
 
 Language: PythonLibraries:
 
@@ -28,7 +28,7 @@ OpenCV
 
 Scikit-learn
 
-Project Workflow
+**Project Workflow**
 
 Importing Libraries
 
@@ -42,7 +42,7 @@ Training and Validation
 
 Model Evaluation and Testing
 
-Visualizations
+**Visualizations**
 
 Various visualizations such as:
 
@@ -50,11 +50,8 @@ Sample Fire and No Fire images
 
 Training vs Validation Accuracy and Loss plots
 
-Confusion Matrix
 
-were used to understand model performance and data patterns.
-
-How to Run
+**How to Run**
 
 Clone the repository or download the notebook.
 

@@ -1,60 +1,56 @@
-# DeepLearningForest Fire Detection using Deep Learning
+# Forest Fire Detection using Deep Learning
 
-**Project Overview
-**
+## Project Overview
 This project aims to detect forest fires from images using deep learning techniques. It involves data preprocessing, visualization, model building, and evaluation to deliver an efficient fire detection system.
 
-**Dataset
-**
-Source: Fire and No Fire images collected for classification tasks.The dataset includes two classes:
+---
 
-Fire
+## Dataset
+**Source**: Fire and No Fire images collected for classification tasks.  
+The dataset includes two classes:
+- Fire
+- No Fire
 
-No Fire
+---
 
-**Tech Stack**
+## Tech Stack
+**Language**: Python  
+**Libraries**:
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Matplotlib
+- OpenCV
+- Scikit-learn
 
-Language: PythonLibraries:
+---
 
-TensorFlow / Keras
+## Project Workflow
+- Importing Libraries
+- Loading and Exploring the Dataset
+- Data Preprocessing and Augmentation
+- Building the CNN Model
+- Training and Validation
+- Model Evaluation and Testing
 
-NumPy
+---
 
-Pandas
-
-Matplotlib
-
-OpenCV
-
-Scikit-learn
-
-**Project Workflow**
-
-Importing Libraries
-
-Loading and Exploring the Dataset
-
-Data Preprocessing and Augmentation
-
-Building the CNN Model
-
-Training and Validation
-
-Model Evaluation and Testing
-
-**Visualizations**
-
+## Visualizations
 Various visualizations such as:
+- Sample Fire and No Fire images
+- Training vs Validation Accuracy and Loss plots
+- Confusion Matrix
 
-Sample Fire and No Fire images
+were used to understand model performance and data patterns.
 
-Training vs Validation Accuracy and Loss plots
+---
+
+## How to Run
+1. Clone the repository or download the notebook.
+2. Ensure you have Python 3 and the required libraries installed.
+3. Run the `Forest_Fire_Detection_using_Deep_Learning.ipynb` notebook in Jupyter Notebook, VSCode, or Google Colab.
+
+---
 
 
-**How to Run**
 
-Clone the repository or download the notebook.
-
-Ensure you have Python 3 and the required libraries installed.
-
-Run the Forest_Fire_Detection_using_Deep_Learning.ipynb notebook in Jupyter Notebook, VSCode, or Google Colab.
